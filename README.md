@@ -2,7 +2,7 @@
 
 **A Large Language Model-Driven Autonomous Framework for Intelligent Cyber Threat Detection and Response**
 
-> Published in: *Computers, Materials & Continua (CMC)*, 2025  
+> Published in: *Computers, Materials & Continua (CMC)*, 2026  
 > DOI: 10.32604/cmc.2025.0xxxxx
 
 ---
